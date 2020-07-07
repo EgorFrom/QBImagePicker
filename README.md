@@ -50,7 +50,7 @@ A clone of UIImagePickerController with multiple selection support.
 
 ### Carthage
 
-1. Add `github "questbeat/QBImagePicker"` to Cartfile
+1. Add `github "EgorFrom/QBImagePicker"` to Cartfile
 2. Run `carthage update`
 3. Add `#import <QBImagePicker/QBImagePicker.h>` to your code
 
